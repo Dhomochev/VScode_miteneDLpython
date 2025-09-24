@@ -1,7 +1,7 @@
 #   2025/09/21   v0_0
 # - module install : requests, beautifulsoup4
 # - 参考）https://blog.takuya-andou.com/entry/2023/08/07/085328
-#  https://mitene.us/f/QkjREtbKY5M　　　(pw:*)
+#  https://mitene.us/f/bNHVoBH_BzI　　　(pw:*)
 #  mitene-DL-v0_0.py
 
 import os
