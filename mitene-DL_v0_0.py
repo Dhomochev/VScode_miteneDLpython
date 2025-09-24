@@ -57,7 +57,8 @@ def save_files(url, page):
 
 
 if __name__ == "__main__":
-    url = "https://mitene.us/f/QkjREtbKY5M"  # アルバムのURL
+    url = "https://mitene.us/f/bNHVoBH_BzI"  # アルバムのURL
+    print(url)
     save_files(url, 1)  # 初回の呼び出し
 
 
